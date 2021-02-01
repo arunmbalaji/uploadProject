@@ -2,9 +2,9 @@ import React from "react"
 
 function Footer() {
     return (
-        <footer class="page-footer font-small blue footer">
+        <footer className="page-footer font-small blue footer">
 
-            <div class="footer-copyright text-center py-3">
+            <div className="footer-copyright text-center py-3">
             </div>
 
         </footer>
